@@ -1,0 +1,2 @@
+livekit-agents[openai,tavus,deepgram,rime]
+python-dotenv
